@@ -1,0 +1,10 @@
+SaveCount:1
+TestCount:2
+Test:92¡Â5/6+66+35¡Á55£­1/1¡Á67=
+TruAns:10172/5
+MAns:2
+Test:50¡Á19+76¡Á65=
+TruAns:5890
+MAns:3
+PastTime:31
+Scoe:0

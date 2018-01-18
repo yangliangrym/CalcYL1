@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<All>
+    <Tato>1</Tato>
+    <QusSaveList>
+        <TestCount>1</TestCount>
+        <QusSave>
+            <Test>56－49+6/5÷57÷57－75=</Test>
+            <TruAns>-368218/5415</TruAns>
+            <MAns>2</MAns>
+        </QusSave>
+        <PastTime>16</PastTime>
+        <Scoe>0</Scoe>
+    </QusSaveList>
+</All>
